@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @itsbuddyduke
-- 👀 I’m interested in the arts. Im learning how to produce and DJ. Im a live looping artist. Ive been doing it for a while now but my consistency is spread out by a few months.
+- 👀 I’m interested in the arts. Im learning how to produce and DJ. Im a live looping artist. Ive been doing it for a while now but my consistency is spread out by a few months then i stop.
 - 🌱 I’m currently learning xcode to be able to make an app.
 
 
